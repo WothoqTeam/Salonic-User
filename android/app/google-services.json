@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "678976120947",
+    "firebase_url": "https://salonic-user.firebaseio.com",
+    "project_id": "salonic-user",
+    "storage_bucket": "salonic-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678976120947:android:720699b5afd4bf37a06206",
+        "android_client_info": {
+          "package_name": "com.app.salonicuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678976120947-9oodqcnd2lrcqiui6dr7ub9m8tquf334.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxPiV4aU--9cQME7QyyutksIPAlXNIQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678976120947-9oodqcnd2lrcqiui6dr7ub9m8tquf334.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678976120947-m5rfr1qbuv5r1ui9usdpm9ior5ne9ea8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.salonicuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678976120947:android:60133e5e48803855a06206",
+        "android_client_info": {
+          "package_name": "com.salonic.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678976120947-9oodqcnd2lrcqiui6dr7ub9m8tquf334.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxPiV4aU--9cQME7QyyutksIPAlXNIQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678976120947-9oodqcnd2lrcqiui6dr7ub9m8tquf334.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678976120947-m5rfr1qbuv5r1ui9usdpm9ior5ne9ea8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.salonicuser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
